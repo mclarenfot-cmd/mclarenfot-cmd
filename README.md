@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mclarenfot-cmd&style=for-the-badge&color=blue" />
+</p>
+
+
 <h3 align="center">🛠️ Tools & Languages</h3>
 
 <p align="center">
@@ -5,7 +10,9 @@
 </p>
 
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=IT+College+Student;Python+%2F+C%2B%2B+Learner;Future+Software+Developer" />
+</p>
 
 
 
