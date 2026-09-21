@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mclarenfot-cmd&show_icons=true&locale=ru&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9fdd7&icon_color=00e676&ring_color=00ff88&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mclarenfot-cmd&show_icons=true&theme=merko&hide_border=true" />
 </p>
 
 <p align="center">
