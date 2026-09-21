@@ -6,6 +6,14 @@
   <img src="https://komarev.com/ghpvc/?username=mclarenfot-cmd&style=for-the-badge&color=brightgreen" />
 </p>
 
+<h3 align="center">About Me</h3>
+
+<p align="center">
+  IT college student<br>
+  Learning Python, C++ and software development<br>
+  Building small projects and improving every day
+</p>
+
 <h3 align="center">Tools & Languages</h3>
 
 <p align="center">
