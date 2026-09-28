@@ -17,7 +17,7 @@
 <h3 align="center">Tools & Languages</h3>
 
 <p align="center">
-  <img height="70" src="https://skillicons.dev/icons?i=vscode,python,cpp" />
+  <img height="70" src="https://skillicons.dev/icons?i=cs,dotnet,powershell,html,css,js,react,python,cpp,lua,git,vscode,figma" />
 </p>
 
 <p align="center">
